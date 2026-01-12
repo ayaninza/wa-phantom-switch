@@ -1,0 +1,39 @@
+{
+  "name": "wa-phantom-switch",
+  "version": "1.0.0",
+  "description": "WhatsApp message manipulation utilities for elaina-baileys",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "keywords": [
+    "whatsapp",
+    "baileys",
+    "elaina-baileys",
+    "automation",
+    "messaging",
+    "phantom",
+    "switch"
+  ],
+  "author": "ayaninza",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ayaninza/wa-phantom-switch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ayaninza/ayaninza  "homepage": "https://github.com/ayaninza/wa-phantom-switch#readme",
+  "peerDependencies": {
+    "elaina-bail": "npm:@rexxhayanasi/elaina-baileys@*"
+  },
+  "devDependencies": {
+    "elaina-bail": "npm:@rexxhayanasi/elaina-baileys@latest"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "README.md",
+    "LICENSE"
+  ]
+}
